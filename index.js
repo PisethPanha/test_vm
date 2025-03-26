@@ -1,1 +1,5 @@
-console.log('Hello World')
+
+let number =  55
+
+console.log(number)
+
